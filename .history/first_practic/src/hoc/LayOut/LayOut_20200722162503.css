@@ -1,0 +1,8 @@
+.Layout{
+    height: 100vh;
+    display: flex;
+    font-display: column;
+}
+.Layout main{
+
+}
